@@ -80,6 +80,7 @@ header {
 }
 
 .navbar li a {
+  position:static;
   color: whitesmoke;
   font-size: 20px;
   text-decoration: none;
